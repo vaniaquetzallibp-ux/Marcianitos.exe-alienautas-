@@ -1,0 +1,6 @@
+{
+  "name": "Alienautas: Misión Sistema Solar",
+  "description": "Videojuego educativo espacial para niños (6-10 años) con exploración planetaria, minijuegos, matemáticas adaptativas y datos reales de la NASA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

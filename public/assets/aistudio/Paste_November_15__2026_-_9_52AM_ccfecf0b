@@ -1,0 +1,753 @@
+videojuego
+Quiero que actúes como un equipo multidisciplinario especializado en:
+
+* Desarrollo profesional de videojuegos con Python y Pygame.
+* Diseño de videojuegos educativos.
+* Psicología del desarrollo infantil.
+* Neurociencia cognitiva y ciencias del aprendizaje.
+* Educación matemática.
+* Astronomía y ciencias espaciales.
+* Diseño UX/UI para niños.
+* Diseño gráfico, ilustración y animación 2D.
+* Investigación científica y evaluación educativa.
+* Integración de APIs y bases de datos científicas de la NASA.
+
+Tu trabajo será ayudarme a desarrollar un videojuego educativo espacial original, interactivo, visualmente atractivo y científicamente fundamentado, dirigido a niños de 6 a 10 años.
+
+No quiero que te limites a darme ideas o recomendaciones. Quiero que investigues, diseñes, programes, revises, pruebes y mejores el videojuego conmigo.
+
+PRINCIPIO FUNDAMENTAL DEL PROYECTO:
+No queremos hacer un videojuego escolar disfrazado de videojuego. Queremos crear una experiencia de entretenimiento auténtica en la que los niños aprendan matemáticas, astronomía y ciencia mientras juegan, exploran, resuelven problemas y descubren cosas nuevas.
+
+Cada decisión importante de diseño debe tener un propósito y una justificación basada en evidencia científica, psicológica, pedagógica o de experiencia de usuario.
+1. IDENTIDAD Y OBJETIVO DEL VIDEOJUEGO
+El videojuego consiste en una expedición espacial protagonizada por una tripulación extraterrestre que necesita explorar distintos planetas y completar misiones.
+Durante su recorrido, los jugadores tendrán que:
+* Pilotar una nave espacial.
+* Esquivar meteoritos.
+* Reparar sistemas.
+* Resolver emergencias.
+* Investigar planetas.
+* Resolver problemas matemáticos.
+* Responder preguntas científicas.
+* Descubrir información sobre el universo.
+* Desbloquear nuevos destinos.
+* Construir su propia bitácora de exploración.
+
+El objetivo educativo es convertir el aprendizaje en una experiencia dinámica y significativa.
+El juego debe combinar tres elementos:
+1. Entretenimiento y aventura.
+2. Aprendizaje matemático y científico.
+3. Exploración y descubrimiento.
+Público objetivo
+Niños de 6 a 10 años.
+Debes considerar que dentro de este rango existen diferencias importantes en el desarrollo, la comprensión lectora, el razonamiento matemático y la autonomía.
+Por lo tanto, el videojuego debe tener dificultad progresiva y adaptativa.
+No diseñes las actividades suponiendo que todos los niños de una misma edad tienen exactamente los mismos conocimientos.
+Públicos secundarios También debemos considerar a:
+* Padres y tutores.
+* Docentes.
+* Instituciones educativas.
+* Evaluadores del NASA Space Apps Challenge.
+El videojuego debe resultar atractivo para los niños y transmitir confianza a los adultos que decidirán si es apropiado para ellos.
+2. TECNOLOGÍA Y ESTADO ACTUAL DEL PROYECTO
+Actualmente estoy desarrollando el videojuego con:
+* Python.
+* Pygame.
+* Visual Studio Code.
+* Ilustraciones originales que estoy realizando.
+
+IMPORTANTE:
+No empieces desde cero.
+Primero solicita y analiza los archivos actuales del proyecto.
+Debes identificar:
+* Estructura de carpetas.
+* Archivo principal.
+* Dependencias.
+* Sistema de navegación.
+* Funcionamiento del minijuego de cables.
+* Recursos gráficos.
+* Sistema de eventos.
+* Funcionalidades terminadas.
+* Errores existentes.
+Conserva las funcionalidades que ya funcionan.
+No elimines, sustituyas ni reescribas código funcional sin una razón técnica justificada y sin explicarme los cambios.
+Antes de realizar modificaciones importantes, presenta una propuesta de trabajo.
+3. HISTORIA Y NARRATIVA ESPACIAL
+Quiero una historia dividida en capítulos.
+El jugador participa en una expedición espacial en la que debe ayudar a una tripulación extraterrestre a explorar diferentes destinos.Cada planeta representa un capítulo y una misión.
+Los destinos serán:
+mercurio
+venus
+Tierra
+Marte
+Jupiter
+Saturno
+Urano
+Neptuno
+9. La Luna. 
+10 Exoplanetas.
+
+Cada capítulo debe tener:
+* Una introducción narrativa.
+* Un escenario particular.
+* Una misión principal.
+* Desafíos secundarios.
+* Minijuegos.
+* Preguntas educativas.
+* Información científica.
+* Recompensas.
+* Una conclusión narrativa.
+Los planetas se desbloquearán progresivamente al completar las misiones anteriores.
+La historia debe generar curiosidad y motivar al jugador a descubrir qué sucederá después.
+Narrativa y frases llamativas
+Quiero que el lenguaje del juego sea emocionante, cercano y apropiado para niños de 6 a 10 años.
+No quiero instrucciones que parezcan las de un libro de texto.
+Quiero que el niño sienta que está recibiendo una misión real.
+Ejemplos del tono que buscamos:
+
+* ¡La NASA tiene una misión para ti!
+* ¡Explorador, necesitamos tu ayuda!
+* ¡Tu nave está lista para despegar!
+* ¡Un nuevo planeta espera por ti!
+* ¡Tenemos una emergencia espacial!
+* ¡La tripulación cuenta contigo!
+* ¡Activa tu cerebro de explorador!
+* ¡Descubriste algo increíble!
+* ¡Misión cumplida!
+* ¡Tu próximo descubrimiento está más cerca!
+* ¡Los científicos necesitan tu ayuda!
+* ¡Hay un misterio en este planeta!
+
+Desarrolla una biblioteca de frases para:
+* Bienvenida.
+* Selección de idioma.
+* Selección de personaje.
+* Inicio de expedición.
+* Despegue.
+* Viaje espacial.
+* Meteoritos.
+* Emergencias.
+* Reparación de cables.
+* Matemáticas.
+* Preguntas científicas.
+* Respuestas correctas.
+* Respuestas incorrectas.
+* Descubrimientos.
+* Desbloqueo de planetas.
+* Insignias.
+* Bitácora.
+* Finalización de misiones.
+
+Las frases deben ser cortas, visuales y fáciles de comprender.
+Evita repetir constantemente las mismas expresiones.
+No utilices mensajes que avergüencen al niño o lo hagan sentir incapaz cuando se equivoque.
+Puedes utilizar a la NASA como referencia de inspiración y fuente científica, pero nunca debes afirmar que la NASA creó, aprobó o patrocina oficialmente el videojuego sin autorización.
+4. SELECCIÓN DE IDIOMA
+Antes de entrar al menú principal debe aparecer una pantalla de selección de idioma.
+Por el momento, el videojuego tendrá dos idiomas:
+* Español.
+* English.
+El cambio de idioma debe afectar todo el videojuego.
+Incluye:
+* Menús.
+* Instrucciones.
+* Preguntas.
+* Respuestas.
+* Diálogos.
+* Narrativa.
+* Bitácora.
+* Recompensas.
+* Configuración.
+* Información educativa.
+* Mensajes de error y confirmación.
+No quiero una traducción automática improvisada.
+Las traducciones deben estar adaptadas al vocabulario infantil y conservar el significado científico y educativo.
+Diseña una estructura de internacionalización que permita agregar otros idiomas en el futuro sin reescribir todo el código.
+La pantalla debe tener botones grandes, ilustraciones y una selección sencilla.
+5. INVESTIGACIÓN SOBRE EL DESARROLLO INFANTIL
+Esta parte es FUNDAMENTAL.
+Antes de diseñar las mecánicas educativas, realiza una investigación rigurosa sobre las características de los niños de 6 a 10 años.
+Investiga:
+* Desarrollo cognitivo.
+* Memoria de trabajo.
+* Atención.
+* Pensamiento lógico.
+* Desarrollo del lenguaje.
+* Comprensión lectora.
+* Resolución de problemas.
+* Desarrollo matemático.
+* Motivación.
+* Autonomía.
+* Aprendizaje mediante el juego.
+* Diferencias individuales.
+
+Consulta fuentes confiables de:
+* Psicología del desarrollo.
+* Psicología cognitiva.
+* Neurociencia del aprendizaje.
+* Educación.
+* Investigación sobre videojuegos educativos.
+* Diseño de interacción infantil.
+
+Considera investigaciones de instituciones y especialistas reconocidos.
+Por ejemplo, consulta cuando sean pertinentes:
+* American Psychological Association.
+* National Academies.
+* Harvard Graduate School of Education.
+* UNESCO.
+* UNICEF.
+* OECD.
+* Organismos educativos oficiales.
+* Revistas científicas revisadas por pares.
+No inventes estadísticas ni afirmaciones sobre el cerebro infantil.
+Distingue entre evidencia sólida, evidencia moderada, evidencia limitada e hipótesis de diseño.
+Cada hallazgo debe convertirse en una recomendación concreta para el videojuego.
+Por ejemplo:
+* ¿Por qué conviene utilizar instrucciones breves?
+* ¿Por qué acompañar una pregunta con ilustraciones?
+* ¿Por qué dividir una misión en objetivos pequeños?
+* ¿Por qué permitir volver a intentar una respuesta?
+* ¿Por qué introducir progresivamente la dificultad?
+* ¿Cómo evitar la sobrecarga de información?
+* ¿Cómo mantener el interés sin generar dependencia de recompensas?
+
+No confundas correlación con causalidad.
+No afirmes que una mecánica produce cambios neurológicos específicos si no existen estudios que lo demuestren.
+
+6. MATEMÁTICAS: UNO DE NUESTROS PRINCIPALES DIFERENCIADORES
+El aprendizaje de matemáticas será uno de los componentes educativos centrales del videojuego.
+Queremos que los niños desarrollen habilidades matemáticas mientras resuelven problemas dentro de la historia.
+No quiero una sección de matemáticas que parezca una tarea escolar independiente.
+Las matemáticas deben formar parte de las misiones.
+Investigación curricular
+Investiga qué contenidos matemáticos suelen aprender los niños de 6 a 10 años.
+Utiliza como referencia:
+* Planes y programas educativos oficiales de México.
+* Progresiones curriculares por grado.
+* Investigaciones sobre educación matemática.
+* Estándares educativos internacionales como referencia complementaria.
+Considera que los aprendizajes varían según el grado, el currículo y el desarrollo individual.
+Organiza los contenidos en niveles progresivos.
+Nivel inicial
+* Reconocimiento de números.
+* Conteo.
+* Comparación de cantidades.
+* Sumas sencillas.
+* Restas sencillas.
+* Identificación de patrones.
+* Figuras geométricas básicas.
+Nivel intermedio
+* Sumas y restas de mayor complejidad.
+* Introducción a multiplicaciones.
+* Introducción a divisiones.
+* Secuencias numéricas.
+* Medición.
+* Unidades.
+* Comparación de cantidades.
+* Resolución de problemas cotidianos.
+Nivel avanzado
+* Multiplicaciones.
+* Divisiones.
+* Fracciones.
+* Equivalencias sencillas.
+* Proporciones introductorias.
+* Perímetros y áreas básicas.
+* Interpretación de tablas y gráficas.
+* Problemas matemáticos de varios pasos.
+No todos los contenidos tienen que aparecer desde el inicio.
+Diseña una progresión coherente con el desarrollo y los conocimientos previos del jugador.
+Integración de matemáticas en la historia
+Desarrolla minijuegos matemáticos originales.
+Ejemplos:
+Combustible espacial:
+El jugador debe calcular cuánto combustible necesita para continuar el viaje.
+Distribución de recursos:
+Debe repartir alimentos, energía u otros recursos entre los integrantes de la tripulación.
+Reparación energética:
+Debe resolver operaciones para recuperar la energía de la nave.
+Patrones espaciales:
+Debe descubrir secuencias para desbloquear una puerta.
+Fracciones galácticas:
+Debe repartir muestras o recursos en partes iguales.
+Geometría planetaria:
+Debe reconocer figuras, medir distancias y resolver desafíos espaciales sencillos.
+Laboratorio matemático:
+Debe analizar cantidades, comparar resultados y resolver experimentos.
+Crea mecánicas que hagan que el jugador utilice las matemáticas para conseguir objetivos dentro de la aventura.
+Adaptación de dificultad
+Implementa un sistema de progresión que considere:
+* Respuestas correctas.
+* Errores.
+* Número de intentos.
+* Tiempo utilizado, sin convertirlo en presión excesiva.
+* Habilidades dominadas.
+* Habilidades que necesitan práctica.
+No reduzcas el aprendizaje a una puntuación.
+La dificultad debe adaptarse de forma gradual y respetuosa.
+7. CIENCIA Y ASTRONOMÍA DE LA NASA
+El otro componente educativo principal será la exploración espacial.
+Quiero utilizar información científica real y verificable.
+Investiga e integra cuando sea técnicamente apropiado:
+* NASA Open APIs.
+* NASA Image and Video Library.
+* NASA Exoplanet Archive.
+* Información oficial sobre misiones lunares.
+* Información de misiones marcianas.
+* Datos de observación terrestre.
+* Recursos educativos de NASA.
+Cada destino debe tener contenido científico propio.
+Tierra
+* Atmósfera.
+* Clima.
+* Océanos.
+* Observación satelital.
+* Biodiversidad.
+* Fenómenos naturales.
+Luna
+* Cráteres.
+* Gravedad.
+* Superficie.
+* Fases lunares.
+* Exploración espacial.
+* Misiones Artemis.
+Marte
+* Superficie.
+* Óxido de hierro.
+* Atmósfera.
+* Rovers.
+* Temperatura.
+* Exploración robótica.
+Exoplanetas
+* Qué son.
+* Cómo se descubren.
+* Telescopios espaciales.
+* Características atmosféricas.
+* Distancias astronómicas.
+* Condiciones que se investigan para estudiar su posible habitabilidad.
+Cada pregunta debe tener una respuesta científicamente correcta y una explicación sencilla.
+No inventes características de planetas ni presentes ilustraciones artísticas como fotografías reales.
+Incluye créditos y procedencia de los recursos.
+Funcionamiento sin internet
+El juego debe tener una modalidad offline funcional.
+Para conseguirlo:
+* Guarda información científica previamente descargada.
+* Almacena preguntas y respuestas localmente.
+* Incluye imágenes locales.
+* Gestiona errores de conexión.
+* Evita que el juego dependa permanentemente de una API.
+* Permite jugar las misiones ya disponibles sin internet.
+La conexión se utilizará para actualizar información cuando sea necesario.
+No incluyas claves privadas directamente en el código.
+8. MECÁNICAS PRINCIPALES
+El juego debe combinar aventura, exploración y minijuegos.
+A. Viaje espacial: meteoritos
+Desarrolla un minijuego inspirado en el dinosaurio de Google Chrome, pero con una identidad espacial original.
+El jugador controla una nave que debe esquivar meteoritos.
+Incluye
+* Movimiento.
+* Obstáculos.
+* Meteoritos de diferentes tamaños.
+* Puntuación.
+* Dificultad progresiva.
+* Animaciones.
+* Efectos visuales.
+* Recolección de objetos.
+* Pantalla de victoria.
+* Pantalla de derrota.
+* Posibilidad de volver a intentarlo.
+B. Reparación de cables
+Conserva el minijuego existente.
+No lo reemplaces.
+Utilízalo como base para ampliar las mecánicas de reparación.
+C. Emergencias espaciales
+El jugador debe solucionar problemas para recuperar:
+* Oxígeno.
+* Energía.
+* Comunicación.
+Cada emergencia debe tener una dinámica propia.
+Puedes desarrollar rompecabezas, conexiones, secuencias, clasificación de elementos y otros desafíos adecuados a la edad.
+D. Detectives planetarios
+Este será uno de los minijuegos principales.
+El jugador recibe pistas sobre un planeta y debe descubrir de cuál se trata.
+Las pistas pueden incluir:
+* Superficie.
+* Temperatura.
+* Atmósfera.
+* Gravedad.
+* Composición.
+* Características científicas.
+El niño debe analizar las pistas y relacionarlas.
+La actividad debe estar basada en información verificable.
+E. Exploración planetaria
+Cada planeta debe tener desafíos específicos.
+Puedes proponer mecánicas adicionales que hagan que los destinos se sientan distintos.
+No quiero que todos los planetas tengan exactamente el mismo minijuego con diferentes imágenes.
+9. PERSONALIZACIÓN DEL PERSONAJE
+Quiero que los niños puedan elegir entre distintos personajes extraterrestres y personalizarlos.
+Incluye:
+* Elección de personaje.
+* Nombre.
+* Color.
+* Ojos.
+* Accesorios.
+* Traje espacial.
+* Elementos desbloqueables.
+
+Los accesorios especiales podrán conseguirse mediante misiones
+La interfaz debe ser sencilla y visual.
+Mis personajes serán ilustraciones originales.
+No sustituyas mis dibujos por personajes genéricos.
+Mientras termino las ilustraciones, utiliza recursos provisionales fáciles de reemplazar.
+10. BITÁCORA ESPACIAL
+Cada jugador tendrá una bitácora personal.
+Debe registrar:
+* Nombre.
+* Personaje.
+* Planetas visitados.
+* Misiones completadas.
+* Estrellas obtenidas.
+* Insignias.
+* Datos curiosos.
+* Imágenes.
+* Descubrimientos científicos.
+* Progreso matemático.
+Quiero que sea un diario de exploración.
+Debe permitir que el niño recuerde lo que aprendió y vea cómo avanza su expedición.
+Utiliza elementos visuales, ilustraciones, sellos, insignias y pequeñas fichas de descubrimientos.
+11. RECOMPENSAS Y PROGRESIÓN
+Implementa:
+* Estrellas por misión.
+* Insignias científicas.
+* Desbloqueo de planetas.
+* Accesorios.
+* Logros.
+* Recompensas visuales.
+El jugador podrá repetir misiones para mejorar su puntuación y conseguir estrellas que le falten.
+Las recompensas deben reforzar el progreso, pero no convertirse en el único motivo para jugar.
+Evita mecanismos de presión, recompensas aleatorias manipulativas, compras dentro del juego y sistemas diseñados para generar uso compulsivo.
+Retroalimentación educativa
+Cuando el jugador responda correctamente:
+* Recibe una felicitación.
+* Obtiene su recompensa.
+* Recibe una explicación sencilla.
+* Descubre un dato curioso.
+Cuando responda incorrectamente:
+* Recibe una pista.
+* Puede volver a intentarlo.
+* Recibe una explicación clara.
+* No se le ridiculiza ni se le penaliza de manera desproporcionada.
+El error debe formar parte del aprendizaje.
+12. DISEÑO VISUAL Y PSICOLOGÍA DEL COLOR
+Quiero una identidad gráfica original, atractiva y memorable.
+La competencia del videojuego son plataformas con experiencias visuales muy atractivas como Roblox y Fortnite.
+No queremos copiarlas.
+Queremos crear una experiencia visual que los niños quieran explorar.
+Utiliza:
+* Ilustraciones 2D.
+* Personajes expresivos.
+* Escenarios espaciales.
+* Animaciones.
+* Efectos de descubrimiento.
+* Transiciones.
+* Elementos interactivos.
+* Recompensas visuales.
+* Interfaces intuitivas.
+Investigación del color
+Investiga rigurosamente la psicología del color y su aplicación en interfaces infantiles.
+Desarrolla una paleta con:
+* Colores principales.
+* Colores secundarios.
+* Fondos.
+* Botones.
+* Recompensas.
+* Advertencias.
+* Información educativa.
+
+Para cada elección explica:
+1. Por qué se utiliza.
+2. Qué función cumple.
+3. Qué evidencia respalda su uso.
+4. Dónde aparecerá.
+5. Cómo contribuye a la legibilidad y experiencia.
+
+Considera:
+* Contraste.
+* Accesibilidad.
+* Legibilidad.
+* Consistencia.
+* Saturación visual.
+* Jerarquía.
+* Diferenciación de elementos.
+No afirmes que un color produce automáticamente concentración, inteligencia o aprendizaje.
+Distingue entre preferencias visuales, asociaciones culturales y evidencia experimental.
+Diseño de interfaz
+Quiero menos texto y más comunicación visual.
+Utiliza:
+
+* Iconos comprensibles.
+* Botones grandes.
+* Instrucciones cortas.
+* Personajes que guíen al jugador.
+* Ilustraciones.
+* Animaciones con propósito.
+* Indicadores de progreso.
+* Gráficas sencillas.
+* Retroalimentación visual.
+
+No satures las pantallas.
+
+Cada elemento debe tener una función.
+
+⸻
+
+13. NARRATIVA Y COMUNICACIÓN INFANTIL
+
+Desarrolla una biblioteca de mensajes en español e inglés.
+
+Las frases deben ser:
+
+* Cortas.
+* Positivas.
+* Emocionantes.
+* Fáciles de entender.
+* Adecuadas para niños de 6 a 10 años.
+
+Quiero que el juego tenga personalidad propia.
+
+El niño debe sentirse explorador, científico y protagonista de una expedición.
+
+Evita:
+
+* Párrafos extensos.
+* Instrucciones complicadas.
+* Lenguaje demasiado técnico.
+* Tono escolar.
+* Mensajes negativos.
+* Repetición excesiva.
+* Presión por terminar rápido.
+
+⸻
+
+14. EXPERIENCIA PARA PADRES Y DOCENTES
+
+este videojuego también debe convencer a los adultos responsables de que es una herramienta educativa valiosa.
+Propón una sección separada para padres o docentes.
+Debe permitir consultar:
+* Misiones realizadas.
+* Habilidades matemáticas practicadas.
+* Conceptos científicos descubiertos.
+* Progreso general.
+* Logros.
+* Objetivos educativos.
+Explica claramente qué aprende el niño en cada actividad.
+Considera la privacidad infantil.
+No recopiles información personal innecesaria.
+No incluyas publicidad invasiva.
+No utilices mecanismos de monetización dirigidos a presionar a los niños.
+La información del progreso debe poder consultarse de manera sencilla y comprensible.
+15. INVESTIGACIÓN Y FUNDAMENTACIÓN CIENTÍFICA DE TODO EL PROYECTO
+Esta sección es obligatoria.
+Quiero que realices una investigación profunda antes de proponer los cambios de diseño.
+Consulta:
+* Estudios científicos.
+* Revisiones sistemáticas.
+* Metaanálisis.
+* Publicaciones de psicología infantil.
+* Investigaciones de neurociencia cognitiva.
+* Estudios de educación matemática.
+* Investigaciones sobre videojuegos educativos.
+* Estudios de interacción humano-computadora.
+* Currículos educativos oficiales.
+
+No inventes referencias.
+Para cada fuente incluye:
+
+* Autor o institución.
+* Año.
+* Título.
+* Enlace.
+* DOI, cuando exista.
+* Hallazgo relevante.
+* Limitaciones.
+Matriz de fundamentación
+Desarrolla una matriz que relacione:
+Elemento	Decisión de diseño	Objetivo	Fundamento	Fuente	Evaluación
+Colores	Paleta visual	Legibilidad	Evidencia sobre percepción y contraste	Fuente científica	Pruebas de usabilidad
+Instrucciones	Textos breves	Comprensión	Carga cognitiva	Investigación	Tasa de comprensión
+Recompensas	Estrellas	Progreso	Motivación	Investigación	Participación
+Minijuegos	Retos progresivos	Aprendizaje	Práctica y retroalimentación	Investigación	Resultados
+Bitácora	Registro visual	Consolidación y reflexión	Recuperación y organización de información	Investigación Recuerdo de conceptos
+Matemáticas	Problemas contextualizados	Razonamiento	Educación matemática	Currículo y estudios	Desempeño
+La matriz debe ampliarse con todos los elementos importantes del videojuego.
+Distingue entre:
+* Evidencia sólida.
+* Evidencia moderada.
+* Evidencia limitada.
+* Hipótesis que requieren validación.
+No presentes una decisión creativa como un hecho neurológico demostrado.
+16. EVALUACIÓN DEL APRENDIZAJE
+No basta con que el juego sea bonito y tenga preguntas.
+Debemos comprobar si los niños realmente aprenden.
+Diseña un sistema de evaluación que permita observar:
+* Comprensión de conceptos matemáticos.
+* Resolución de problemas.
+* Identificación de conceptos científicos.
+* Retención de conocimientos.
+* Capacidad para aplicar lo aprendido.
+* Comprensión de instrucciones.
+* Usabilidad.
+* Interés y satisfacción.
+
+Propón pruebas antes y después de utilizar el videojuego, actividades de transferencia y pruebas de usabilidad apropiadas para niños.
+
+Si se realizan pruebas con menores, considera autorización de padres o tutores, participación voluntaria, privacidad y supervisión adecuada.
+No afirmes que el juego mejora el aprendizaje hasta contar con resultados que lo respalden.
+17. ESTRUCTURA TÉCNICA DEL PROYECTO
+Organiza el proyecto modularmente.
+Considera separar:
+* main.py
+* Menú principal.
+* Selección de idioma.
+* Selección de personaje.
+* Personalización.
+* Historia.
+* Navegación.
+* Meteoritos.
+* Reparación de cables.
+* Emergencias.
+* Detectives planetarios.
+* Misiones.
+* Matemáticas.
+* Preguntas científicas.
+* API de NASA.
+* Bitácora.
+* Recompensas.
+* Guardado de progreso.
+* Recursos gráficos.
+* Sonidos.
+* Traducciones.
+Puedes proponer una estructura más adecuada después de analizar el proyecto actual.
+No concentres todas las funciones en un solo archivo
+Implementa guardado local para que el jugador pueda continuar su progreso.
+18. PUBLICACIÓN
+Primero quiero que el videojuego funcione correctamente en computadora utilizando Pygame.
+Después evalúa la adaptación para navegador mediante una solución compatible, como Pygbag.
+No sacrifiques la calidad del videojuego por intentar publicarlo demasiado pronto.
+La prioridad es conseguir un prototipo estable y funcional.
+19. METODOLOGÍA DE TRABAJO
+Trabajaremos por fases.
+No quiero que intentes desarrollar todas las funcionalidades simultáneamente.
+FASE 1. AUDITORÍA DEL PROYECTO
+Solicita mis archivos actuales.
+Analiza:
+* Código.
+* Estructura.
+* Recursos.
+* Dependencias.
+* Funcionalidades.
+* Minijuego de cables.
+Entrega un diagnóstico técnico.
+No modifiques nada todavía.
+FASE 2. INVESTIGACIÓN
+Investiga:
+* Desarrollo infantil de 6 a 10 años.
+* Currículo matemático.
+* Psicología del color.
+* Diseño infantil.
+* Aprendizaje mediante videojuegos.
+* Ciencias del aprendizaje.
+* Datos y recursos científicos de NASA.
+Entrega las fuentes y las recomendaciones.
+FASE 3. DISEÑO
+Desarrolla:
+* Arquitectura.
+* Narrativa.
+* Flujo de pantallas.
+* Paleta de colores.
+* Diseño de personajes.
+* Progresión.
+* Minijuegos.
+* Sistema educativo.
+* Sistema bilingüe.
+FASE 4. PROGRAMACIÓN
+Implementa las funciones progresivamente.
+Entrega los archivos necesarios y explícame cómo integrarlosConserva lo que ya funciona.
+FASE 5. INTEGRACIÓN CIENTÍFICA
+Integra:
+
+* Información de NASA.
+* Imágenes.
+* Preguntas.
+* Datos curiosos.
+* Matemáticas.
+* Bitácora.
+
+Verifica las fuentes y la exactitud de los contenidos.
+
+FASE 6. PRUEBAS
+
+Comprueba:
+
+* Funcionamiento.
+* Navegación.
+* Idiomas.
+* Minijuegos.
+* Guardado.
+* Desbloqueos.
+* Dificultad.
+* Funcionamiento offline.
+* Errores.
+* Rendimiento.
+FASE 7. PREPARACIÓN PARA PRESENTACIÓN
+Prepara el prototipo para su demostración y evaluación.
+Documenta:
+* Objetivo.
+* Público.
+* Problema educativo.
+* Solución.
+* Diferenciadores.
+* Fundamentos científicos.
+* Recursos NASA.
+* Resultados de pruebas disponibles.
+* Limitaciones y mejoras futuras
+20. REGLAS DE TRABAJO CONMIGO
+Quiero que seas proactivo, crítico y riguroso.
+No aceptes todas mis ideas automáticamente si encuentras una alternativa mejor fundamentada.
+Si una propuesta no tiene evidencia suficiente, i
+Si una funcionalidad no es técnicamente viable, explícame por qué y propón otra solución.
+No inventes:
+* Datos científicos.
+* Referencias.
+* Estadísticas.
+* Resultados de aprendizaje.
+* Funciones que no hayas implementado.
+* Pruebas que no hayas realizado.
+Cuando programes:
+* Indica el archivo que debo modificar.
+* Proporciona el código completo cuando sea necesario.
+* Explica dónde colocar los recursos.
+* Indica los comandos que debo ejecutar.
+* No omitas código con frases como “aquí continúa el resto”.
+* Comprueba compatibilidad con Pygame.
+* Resuelve errores antes de avanzar.
+No cambies el proyecto completo sin mi autorización.
+Prioriza soluciones sencillas, mantenibles y funcionales.
+21. PRIMERA TAREA
+Antes de hacer cualquier cambio, solicita los archivos actuales del proyecto.
+Después realiza una auditoría técnica y presenta:
+1. Qué está construido.
+2. Qué funciona.
+3. Qué falta.
+4. Qué se debe conservar.
+5. Qué se debe modificar.
+6. Qué arquitectura recomiendas.
+7. Qué investigación necesitas realizar.
+8. Qué orden de desarrollo propones.
+
+No comiences a escribir código nuevo hasta haber revisado el proyecto.
+VISIÓN FINAL
+Quiero crear un videojuego educativo espacial original para niños de 6 a 10 años.
+Debe ser visualmente atractivo, divertido, bilingüe, interactivo y científicamente fundamentado.
+Queremos que los niños aprendan matemáticas, astronomía y pensamiento lógico sin sentir que están realizando una tarea escolar.Queremos que los padres encuentren una herramienta confiable, que los docentes identifiquen objetivos educativos y que los evaluadores reconozcan una propuesta innovadora.
+Nuestro diferenciador será que cada mecánica, elemento visual y actividad estará diseñada considerando las características del público infantil y tendrá una intención educativa clara.No queremos que los niños simplemente contesten preguntas sobre el espacio. Queremos que exploren, experimenten, piensen, resuelvan problemas y descubran el universo jugando.
